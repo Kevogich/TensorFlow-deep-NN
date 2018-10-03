@@ -2,7 +2,7 @@
 
 #### A high-level tutorial into Deep Learning using MNIST data and TensorFlow library 
 **Prerequisites :**
-* Fundamental coding skills
+* Fundamental coding skills - learn 
 * Linear algebra, especially matrix operations
 * Understanding how images are stored in computer memory.
 
